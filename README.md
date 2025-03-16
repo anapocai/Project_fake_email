@@ -38,7 +38,7 @@ This project utilizes the **Phishing Email Dataset** available on [Kaggle](https
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/fraud-detection.git
+    git clone https://github.com/yourusername/phishing-email-detector.git
     ```
 
 ## Usage
